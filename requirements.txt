@@ -2,5 +2,5 @@ streamlit_option_menu
 plotly
 pymongo
 mysql.connector
-googleapiclient
+google-api-python-client
 pandas
